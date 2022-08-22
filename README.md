@@ -1,3 +1,5 @@
+![Banner](https://github.com/VJEFERSON/banner.png)
+
 ### Olá, eu sou o Valdeci 👋
 
 Atualmente trabalhando como Desenvolvedor Web Front-end, com experiência no desenvolvimento Front-end Web (Angular), Back-End (Node.js, NestJS), administração e manutenção de base de dados (PostgreSQL). Entusiasta na área de desenvolvimento de jogos eletrônicos.
