@@ -20,5 +20,7 @@ Atualmente trabalhando como Desenvolvedor Web Front-end, com experiência no des
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white)
+
+### Estou aprendendo
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white)
