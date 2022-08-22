@@ -1,10 +1,10 @@
-![Banner](https://github.com/VJEFERSON/banner.png)
+<img src='banner.png' alt="banner"></img>
 
-### Olá, eu sou o Valdeci 👋
+### Sobre mim :writing_hand:
 
 Atualmente trabalhando como Desenvolvedor Web Front-end, com experiência no desenvolvimento Front-end Web (Angular), Back-End (Node.js, NestJS), administração e manutenção de base de dados (PostgreSQL). Entusiasta na área de desenvolvimento de jogos eletrônicos.
 
-### Ferramentas e Tecnologias
+### Ferramentas e Tecnologias :hammer_and_wrench:	
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
@@ -23,6 +23,6 @@ Atualmente trabalhando como Desenvolvedor Web Front-end, com experiência no des
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white)
 
-### Estou aprendendo
+### Estou aprendendo :books:	
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white)
